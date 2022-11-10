@@ -1,3 +1,5 @@
+# Hello prof!
+
 """
 Thomas Seger
 MA346 - Midterm Project
